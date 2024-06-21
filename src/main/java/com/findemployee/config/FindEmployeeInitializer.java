@@ -18,7 +18,7 @@ public class FindEmployeeInitializer extends AbstractAnnotationConfigDispatcherS
 
 	@Override
 	protected String[] getServletMappings() {
-		String arr[] = {"/femp.com/*"};
+		String arr[] = {"/"};
 		return arr;
 	}
 
