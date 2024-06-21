@@ -10,6 +10,6 @@
 	<h1 align=center>Find Employee</h1>
 	<hr />
 	<p>Result</P>
-	<p>Candidate ${cname} profile matches for the ${rname} role.</p>
+	<p>Candidate ${userInfoDTO.candidateName} profile matches for the ${userInfoDTO.roleName} role.</p>
 </body>
 </html>

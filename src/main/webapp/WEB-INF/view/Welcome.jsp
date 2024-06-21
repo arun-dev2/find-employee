@@ -11,8 +11,8 @@
 		<div align = "center">
 			<h1 align=center>Find Employee</h1>
 			<hr/>
-			<p><label for="role">Job Role:</label> <input type="text" id="role" name = "rname"  /></p>
-			<p><label for="name">Candidate Name:</label> <input type="text"id="name" name = "cname" /></p>
+			<p><label for="role">Job Role:</label> <input type="text" id="role" name = "roleName"  /></p>
+			<p><label for="name">Candidate Name:</label> <input type="text"id="name" name = "candidateName" /></p>
 			<input type="submit" value="Calculate" />
 		</div>
 	</form>
